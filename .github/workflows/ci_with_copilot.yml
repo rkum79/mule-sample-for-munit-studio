@@ -25,7 +25,7 @@ jobs:
 
       - name: Install Copilot
         run: |
-          pip install copilot-ai
+          pip install copilot
 
       - name: Run Copilot tests
         run: |
